@@ -1,8 +1,8 @@
 {
-  "name": "@norcrel/ts-serialization",
+  "name": "@norcrel/easy-class-serialization",
   "version": "1.0.0",
   "description": "A small library for enabling serialization of data classes in Typescript",
-  "main": "src/ts-serializer.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tsc"
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/norcrel/ts-serialization.git"
+    "url": "git+https://github.com/norcrel/easy-class-serialization.git"
   },
   "bugs": {
-    "url": "https://github.com/norcrel/ts-serialization/issues"
+    "url": "https://github.com/norcrel/easy-class-serialization/issues"
   },
-  "homepage": "https://github.com/norcrel/ts-serialization#readme"
+  "homepage": "https://github.com/norcrel/easy-class-serialization#readme"
 }
