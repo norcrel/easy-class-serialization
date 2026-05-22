@@ -1,4 +1,4 @@
-# ts-serialization
+# easy-class-serialization
 A small library for enabling serialization of objects with prototypes in Typescript using JSON.stringify().
 Intended for simple, hierarchical data model classes with some functions.
 
