@@ -2,7 +2,7 @@
   "name": "@norcrel/ts-serialization",
   "version": "1.0.0",
   "description": "A small library for enabling serialization of data classes in Typescript",
-  "main": "src/index.js",
+  "main": "src/ts-serializer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tsc"
