@@ -1,0 +1,19 @@
+{
+  "name": "ts-serialization",
+  "version": "1.0.0",
+  "description": "A small library for enabling serialization of data classes in Typescript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serialization",
+    "typescript",
+    "data"
+  ],
+  "author": "Jerry Fu",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
